@@ -6,8 +6,8 @@
 
 //2. Teniendo este array, debemos utilizar un método para reversar el orden con reverse
 
-//3. Debemos re convertir el array en string. con el método join
+//3. Debemos re convertir el array en string. con el método join, que me brinda un string separado por comas.
 
 const reversedWord = function (str) {
-  return str.split("").reverse().join;
+  return str.split("").reverse().join();
 };
