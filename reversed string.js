@@ -1,4 +1,4 @@
-//Given a string, reverse the word. reverseString(“hello”) should become “olleh”
+//Instruction: Given a string, reverse the word. reverseString(“hello”) should become “olleh”
 
 //Para solucionarlo,
 //1. el string debe ser primero dividido en letras,Es decir que debe ser
